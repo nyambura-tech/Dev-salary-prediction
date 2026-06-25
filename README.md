@@ -1,4 +1,4 @@
-# Developer Salary Prediction - Global
+# Developer Salary Prediction 
 
 <!-- Repository Stats -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/nyambura-tech/Dev-salary-prediction)
