@@ -137,17 +137,8 @@ End-to-end training script
 
 ---
 
-## Model Performance
 
-| Metric | Score |
-|--------|-------|
-| **R² Score** | 0.85 |
-| **MAE** | $20,000 |
-| **RMSE** | $25,000 |
 
-*(Update these values with your actual model metrics)*
-
----
 
 
 
