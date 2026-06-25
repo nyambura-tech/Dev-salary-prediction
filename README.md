@@ -1,4 +1,4 @@
-# Developer Salary Prediction 
+# Developer Salary Prediction
 
 <!-- Repository Stats -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/nyambura-tech/Dev-salary-prediction)
@@ -18,13 +18,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![ML Models](https://img.shields.io/badge/Models-RandomForest%2C%20GradientBoosting%2C%20LinearRegression-blue)
 
-# Developer Salary Prediction
-
-The Project was focused on predicting the salary of Developer with reference to various factors such Languages Worked with. and Geographic location and later more features were added. The model is trained on developer survey data to understand how different factors influence salary levels.
-
 ---
 
 ## Project Overview
+
+The Project was focused on predicting the salary of Developer with reference to various factors such Languages Worked with. and Geographic location and later more features were added. The model is trained on developer survey data to understand how different factors influence salary levels.
 
 This project uses data from the **Stack Overflow Developer Survey** to build a machine learning model capable of predicting a developer's annual salary based on demographic, educational, employment, and technical experience information.
 
@@ -136,6 +134,18 @@ End-to-end training script
 5. Train XGBoost model
 6. Evaluate performance
 7. Save trained pipeline
+
+---
+
+## Model Performance
+
+| Metric | Score |
+|--------|-------|
+| **R² Score** | 0.85 |
+| **MAE** | $20,000 |
+| **RMSE** | $25,000 |
+
+*(Update these values with your actual model metrics)*
 
 ---
 
